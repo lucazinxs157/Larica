@@ -1,0 +1,479 @@
+E:\Laricão\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+E:\Laricão\Laricão\obj\Debug\Laricão.csproj.SuggestedBindingRedirects.cache
+E:\Laricão\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+E:\Laricão\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+E:\Laricão\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+E:\Laricão\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+E:\Laricão\Laricão\bin\Debug\Laricão.exe.config
+E:\Laricão\Laricão\bin\Debug\Laricão.exe
+E:\Laricão\Laricão\bin\Debug\Laricão.pdb
+E:\Laricão\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+E:\Laricão\Laricão\bin\Debug\Controle.dll
+E:\Laricão\Laricão\bin\Debug\Google.Protobuf.dll
+E:\Laricão\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+E:\Laricão\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Laricão\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+E:\Laricão\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Laricão\Laricão\bin\Debug\Modelo.dll
+E:\Laricão\Laricão\bin\Debug\MySql.Data.dll
+E:\Laricão\Laricão\bin\Debug\System.Buffers.dll
+E:\Laricão\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Laricão\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Laricão\Laricão\bin\Debug\System.IO.Pipelines.dll
+E:\Laricão\Laricão\bin\Debug\System.Memory.dll
+E:\Laricão\Laricão\bin\Debug\System.Numerics.Vectors.dll
+E:\Laricão\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Laricão\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Laricão\Laricão\bin\Debug\ZstdSharp.dll
+E:\Laricão\Laricão\bin\Debug\Controle.pdb
+E:\Laricão\Laricão\bin\Debug\Controle.dll.config
+E:\Laricão\Laricão\bin\Debug\Modelo.pdb
+E:\Laricão\Laricão\bin\Debug\Modelo.dll.config
+E:\Laricão\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+E:\Laricão\Laricão\bin\Debug\Google.Protobuf.pdb
+E:\Laricão\Laricão\bin\Debug\Google.Protobuf.xml
+E:\Laricão\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+E:\Laricão\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Laricão\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+E:\Laricão\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Laricão\Laricão\bin\Debug\MySql.Data.xml
+E:\Laricão\Laricão\bin\Debug\System.Buffers.xml
+E:\Laricão\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Laricão\Laricão\bin\Debug\System.IO.Pipelines.xml
+E:\Laricão\Laricão\bin\Debug\System.Memory.xml
+E:\Laricão\Laricão\bin\Debug\System.Numerics.Vectors.xml
+E:\Laricão\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Laricão\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Laricão\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+E:\Laricão\Laricão\obj\Debug\Laricão.exe
+E:\Laricão\Laricão\obj\Debug\Laricão.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.exe
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Laricão.exe.config
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Laricão.exe
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Laricão.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Controle.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Modelo.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\MySql.Data.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Buffers.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.IO.Pipelines.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Memory.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\ZstdSharp.dll
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Controle.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Controle.dll.config
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Modelo.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Modelo.dll.config
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Google.Protobuf.pdb
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Google.Protobuf.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\MySql.Data.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Buffers.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.IO.Pipelines.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Memory.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aluno\Desktop\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\laricao\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+F:\laricao\Laricão\bin\Debug\Laricão.exe.config
+F:\laricao\Laricão\bin\Debug\Laricão.exe
+F:\laricao\Laricão\bin\Debug\Laricão.pdb
+F:\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+F:\laricao\Laricão\bin\Debug\Controle.dll
+F:\laricao\Laricão\bin\Debug\Google.Protobuf.dll
+F:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+F:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+F:\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+F:\laricao\Laricão\bin\Debug\Modelo.dll
+F:\laricao\Laricão\bin\Debug\MySql.Data.dll
+F:\laricao\Laricão\bin\Debug\System.Buffers.dll
+F:\laricao\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+F:\laricao\Laricão\bin\Debug\System.IO.Pipelines.dll
+F:\laricao\Laricão\bin\Debug\System.Memory.dll
+F:\laricao\Laricão\bin\Debug\System.Numerics.Vectors.dll
+F:\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\laricao\Laricão\bin\Debug\ZstdSharp.dll
+F:\laricao\Laricão\bin\Debug\Controle.pdb
+F:\laricao\Laricão\bin\Debug\Controle.dll.config
+F:\laricao\Laricão\bin\Debug\Modelo.pdb
+F:\laricao\Laricão\bin\Debug\Modelo.dll.config
+F:\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+F:\laricao\Laricão\bin\Debug\Google.Protobuf.pdb
+F:\laricao\Laricão\bin\Debug\Google.Protobuf.xml
+F:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+F:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+F:\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+F:\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+F:\laricao\Laricão\bin\Debug\MySql.Data.xml
+F:\laricao\Laricão\bin\Debug\System.Buffers.xml
+F:\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\laricao\Laricão\bin\Debug\System.IO.Pipelines.xml
+F:\laricao\Laricão\bin\Debug\System.Memory.xml
+F:\laricao\Laricão\bin\Debug\System.Numerics.Vectors.xml
+F:\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\laricao\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+F:\laricao\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+F:\laricao\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+F:\laricao\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+F:\laricao\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+F:\laricao\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+F:\laricao\Laricão\obj\Debug\Laricão.exe
+F:\laricao\Laricão\obj\Debug\Laricão.pdb
+F:\laricao\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+F:\laricao\Laricão\obj\Debug\Laricão.FrmClientes.resources
+F:\laricao\Laricão\obj\Debug\Laricão.FrmMenu.resources
+F:\laricao\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+E:\laricao\Laricão\bin\Debug\Laricão.exe.config
+E:\laricao\Laricão\bin\Debug\Laricão.exe
+E:\laricao\Laricão\bin\Debug\Laricão.pdb
+E:\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+E:\laricao\Laricão\bin\Debug\Controle.dll
+E:\laricao\Laricão\bin\Debug\Google.Protobuf.dll
+E:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+E:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+E:\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\laricao\Laricão\bin\Debug\Modelo.dll
+E:\laricao\Laricão\bin\Debug\MySql.Data.dll
+E:\laricao\Laricão\bin\Debug\System.Buffers.dll
+E:\laricao\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\laricao\Laricão\bin\Debug\System.IO.Pipelines.dll
+E:\laricao\Laricão\bin\Debug\System.Memory.dll
+E:\laricao\Laricão\bin\Debug\System.Numerics.Vectors.dll
+E:\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\laricao\Laricão\bin\Debug\ZstdSharp.dll
+E:\laricao\Laricão\bin\Debug\Controle.pdb
+E:\laricao\Laricão\bin\Debug\Controle.dll.config
+E:\laricao\Laricão\bin\Debug\Modelo.pdb
+E:\laricao\Laricão\bin\Debug\Modelo.dll.config
+E:\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+E:\laricao\Laricão\bin\Debug\Google.Protobuf.pdb
+E:\laricao\Laricão\bin\Debug\Google.Protobuf.xml
+E:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+E:\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+E:\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\laricao\Laricão\bin\Debug\MySql.Data.xml
+E:\laricao\Laricão\bin\Debug\System.Buffers.xml
+E:\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\laricao\Laricão\bin\Debug\System.IO.Pipelines.xml
+E:\laricao\Laricão\bin\Debug\System.Memory.xml
+E:\laricao\Laricão\bin\Debug\System.Numerics.Vectors.xml
+E:\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\laricao\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+E:\laricao\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+E:\laricao\Laricão\obj\Debug\Laricão.FrmMenu.resources
+E:\laricao\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+E:\laricao\Laricão\obj\Debug\Laricão.FrmClientes.resources
+E:\laricao\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+E:\laricao\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+E:\laricao\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+E:\laricao\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+E:\laricao\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+E:\laricao\Laricão\obj\Debug\Laricão.exe
+E:\laricao\Laricão\obj\Debug\Laricão.pdb
+E:\Backup\laricao\Laricão\bin\Debug\Laricão.exe.config
+E:\Backup\laricao\Laricão\bin\Debug\Laricão.exe
+E:\Backup\laricao\Laricão\bin\Debug\Laricão.pdb
+E:\Backup\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+E:\Backup\laricao\Laricão\bin\Debug\Controle.dll
+E:\Backup\laricao\Laricão\bin\Debug\Google.Protobuf.dll
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+E:\Backup\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Backup\laricao\Laricão\bin\Debug\Modelo.dll
+E:\Backup\laricao\Laricão\bin\Debug\MySql.Data.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Buffers.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.IO.Pipelines.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Memory.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Numerics.Vectors.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Backup\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Backup\laricao\Laricão\bin\Debug\ZstdSharp.dll
+E:\Backup\laricao\Laricão\bin\Debug\Controle.pdb
+E:\Backup\laricao\Laricão\bin\Debug\Controle.dll.config
+E:\Backup\laricao\Laricão\bin\Debug\Modelo.pdb
+E:\Backup\laricao\Laricão\bin\Debug\Modelo.dll.config
+E:\Backup\laricao\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+E:\Backup\laricao\Laricão\bin\Debug\Google.Protobuf.pdb
+E:\Backup\laricao\Laricão\bin\Debug\Google.Protobuf.xml
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Backup\laricao\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+E:\Backup\laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Backup\laricao\Laricão\bin\Debug\MySql.Data.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Buffers.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.IO.Pipelines.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Memory.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Numerics.Vectors.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Backup\laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.csproj.SuggestedBindingRedirects.cache
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.FrmMenu.resources
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.FrmClientes.resources
+E:\Backup\laricao\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.exe
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.pdb
+E:\Laricao\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+E:\Laricao\Laricão\bin\Debug\Correios.dll
+E:\Laricao\Laricão\bin\Debug\Correios.pdb
+E:\Laricao\Laricão\bin\Debug\Newtonsoft.Json.dll
+E:\Laricao\Laricão\bin\Debug\Newtonsoft.Json.xml
+E:\Backup\laricao\Laricão\bin\Debug\Correios.dll
+E:\Backup\laricao\Laricão\bin\Debug\Newtonsoft.Json.dll
+E:\Backup\laricao\Laricão\bin\Debug\Correios.pdb
+E:\Backup\laricao\Laricão\bin\Debug\Newtonsoft.Json.xml
+E:\Backup\laricao\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+E:\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.dll
+E:\Laricao\Laricão\bin\Debug\System.Text.Json.dll
+E:\Laricao\Laricão\bin\Debug\System.ValueTuple.dll
+E:\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.xml
+E:\Laricao\Laricão\bin\Debug\System.Text.Json.xml
+E:\Laricao\Laricão\bin\Debug\System.ValueTuple.xml
+E:\Laricao\Laricão\bin\Debug\PdfSharp.Charting.dll
+E:\Laricao\Laricão\bin\Debug\PdfSharp.dll
+E:\Laricao\Laricão\bin\Debug\PdfSharp.xml
+E:\Laricao\Laricão\bin\Debug\PdfSharp.Charting.xml
+E:\Laricao\Laricão\bin\Debug\de\PdfSharp.resources.dll
+E:\Laricao\Laricão\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Laricao\Laricão\obj\Debug\Laricão.Cadastro.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Correios.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\PdfSharp.Charting.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\PdfSharp.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.Text.Json.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.ValueTuple.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Correios.pdb
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\PdfSharp.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\PdfSharp.Charting.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.Text.Json.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\System.ValueTuple.xml
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.Cadastro.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.FrmMenu.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.FrmClientes.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Laricão.exe.manifest
+C:\Users\aluno\Desktop\Laricao\Laricão\bin\Debug\Laricão.application
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.exe.manifest
+C:\Users\aluno\Desktop\Laricao\Laricão\obj\Debug\Laricão.application
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Laricão.exe.config
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Laricão.exe.manifest
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Laricão.application
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Laricão.exe
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Laricão.pdb
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Controle.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Correios.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Google.Protobuf.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Modelo.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\MySql.Data.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Newtonsoft.Json.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\PdfSharp.Charting.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\PdfSharp.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Buffers.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.IO.Pipelines.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Memory.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Numerics.Vectors.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Text.Encodings.Web.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Text.Json.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.ValueTuple.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\ZstdSharp.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Controle.pdb
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Controle.dll.config
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Modelo.pdb
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Modelo.dll.config
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Correios.pdb
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Google.Protobuf.pdb
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Google.Protobuf.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\MySql.Data.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\Newtonsoft.Json.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\PdfSharp.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\PdfSharp.Charting.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Buffers.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.IO.Pipelines.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Memory.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Numerics.Vectors.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Text.Encodings.Web.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Text.Json.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\System.ValueTuple.xml
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\de\PdfSharp.resources.dll
+E:\Backup\Laricao - Copia\Laricão\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.csproj.SuggestedBindingRedirects.cache
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.Cadastro.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.FrmMenu.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.FrmClientes.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.exe.manifest
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.application
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.exe
+E:\Backup\Laricao - Copia\Laricão\obj\Debug\Laricão.pdb
+E:\Laricao\Laricão\bin\Debug\Laricão.exe.manifest
+E:\Laricao\Laricão\bin\Debug\Laricão.application
+E:\Laricao\Laricão\obj\Debug\Laricão.exe.manifest
+E:\Laricao\Laricão\obj\Debug\Laricão.application
+F:\Laricao\Laricão\bin\Debug\Laricão.exe.manifest
+F:\Laricao\Laricão\bin\Debug\Laricão.application
+F:\Laricao\Laricão\bin\Debug\Correios.dll
+F:\Laricao\Laricão\bin\Debug\Newtonsoft.Json.dll
+F:\Laricao\Laricão\bin\Debug\PdfSharp.Charting.dll
+F:\Laricao\Laricão\bin\Debug\PdfSharp.dll
+F:\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.dll
+F:\Laricao\Laricão\bin\Debug\System.Text.Json.dll
+F:\Laricao\Laricão\bin\Debug\System.ValueTuple.dll
+F:\Laricao\Laricão\bin\Debug\Correios.pdb
+F:\Laricao\Laricão\bin\Debug\Newtonsoft.Json.xml
+F:\Laricao\Laricão\bin\Debug\PdfSharp.xml
+F:\Laricao\Laricão\bin\Debug\PdfSharp.Charting.xml
+F:\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.xml
+F:\Laricao\Laricão\bin\Debug\System.Text.Json.xml
+F:\Laricao\Laricão\bin\Debug\System.ValueTuple.xml
+F:\Laricao\Laricão\bin\Debug\de\PdfSharp.resources.dll
+F:\Laricao\Laricão\bin\Debug\de\PdfSharp.Charting.resources.dll
+F:\Laricao\Laricão\obj\Debug\Laricão.Cadastro.resources
+F:\Laricao\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+F:\Laricao\Laricão\obj\Debug\Laricão.exe.manifest
+F:\Laricao\Laricão\obj\Debug\Laricão.application
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Laricão.exe.config
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Laricão.exe.manifest
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Laricão.application
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Laricão.exe
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Laricão.pdb
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Controle.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Correios.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Google.Protobuf.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Modelo.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\MySql.Data.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\PdfSharp.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Buffers.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Memory.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Text.Json.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.ValueTuple.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\ZstdSharp.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Controle.pdb
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Controle.dll.config
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Modelo.pdb
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Modelo.dll.config
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Correios.pdb
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Google.Protobuf.pdb
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Google.Protobuf.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\MySql.Data.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\PdfSharp.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Buffers.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Memory.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Text.Json.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\System.ValueTuple.xml
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.csproj.AssemblyReference.cache
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.Cadastro.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.FrmCarrinho.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.FrmMenu.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.FrmCardapio.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.FrmClientes.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.FrmPedidos.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\LaricãoHamburgueria.Login.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.Properties.Resources.resources
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.csproj.GenerateResource.cache
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.csproj.CoreCompileInputs.cache
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.exe.manifest
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.application
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.csproj.CopyComplete
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.exe
+C:\Users\Eduar\OneDrive\Área de Trabalho\Laricao\Laricão\obj\Debug\Laricão.pdb
